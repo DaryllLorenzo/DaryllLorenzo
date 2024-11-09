@@ -1,1 +1,31 @@
-# Daryll_Lorenzo
+<h1 align="center">Hola 👋, soy Daryll Lorenzo Alfonso</h1>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&duration=2500&pause=1000&color=3AF76B&center=true&vCenter=true&width=500&lines=Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica+en+la+Cujae+%F0%9F%92%9A" alt="Typing SVG" /></a></div>
+
+## 😎 Sobre Mí:
+- 🫡 Estudio en 3er año de ingeniería informática en la Universidad Tecnológica de La Habana "José Antonio Hecheverría" Cujae 💚
+- 🐧 Apasionado a los sistemas UNIX en especial Linux, donde tengo experiencia en el manejo de muchas distros
+- 👍 Me encantan los desafíos y resolver problemas en general, pensando en variantes creativas
+- 🌱 Actualmente estoy refinando mis habilidades con **C** en cuanto a manejo de memoria y punteros, en un futuro no muy lejano tengo en mis planes ir con todo a por RUST
+
+## 💻 Tecnologías:
+| Tipos | Tecnologías |
+| ------ | ---------- |
+| Frontend | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) |
+| Backend | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=for-the-badge) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=for-the-badge) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)|
+| Package Manager | ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Composer](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=fff&style=for-the-badge) |
+| Otros | ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) |
+| IDE | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=fff&style=for-the-badge) ![Notepad++](https://img.shields.io/badge/Notepad%2B%2B-90E59A?logo=notepadplusplus&logoColor=000&style=for-the-badge)|
+| SO   | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff&style=for-the-badge) ![openSUSE](https://img.shields.io/badge/openSUSE-73BA25?logo=opensuse&logoColor=fff&style=for-the-badge) |
+
+
+## 📊 Estadísticas de Github:
+<p align="center"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DaryllLorenzo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DaryllLorenzo&theme=tokyonight&hide_border=false"/></p>
+<p align="center"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DaryllLorenzo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></p>
+<p align="center"><img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaryllLorenzo&theme=tokyonight" /></p>
+
+
+## 👀 Visitas
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/DaryllLorenzo/count.svg" />  
+</p>
