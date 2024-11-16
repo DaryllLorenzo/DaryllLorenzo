@@ -22,13 +22,13 @@
 
 
 ## 📊 Estadísticas de Github:
-<p align="center"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DaryllLorenzo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DaryllLorenzo&theme=tokyonight&hide_border=false"/></p>
-<p align="center"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DaryllLorenzo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></p>
-<p align="center"><img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaryllLorenzo&theme=tokyonight" /></p>
+<p align="center"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DaryllLorenzo&theme=react&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DaryllLorenzo&theme=react&hide_border=false"/></p>
+<p align="center"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DaryllLorenzo&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></p>
+<p align="center"><img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaryllLorenzo&theme=react" /></p>
 
 
-## 👀 Visitas
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/DaryllLorenzo/count.svg" />  
+<p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&quote=La%20inteligencia%20es%20la%20habilidad%20de%20evitar%20hacer%20trabajo,%20y%20conseguir%20que%20el%20trabajo%20se%20haga.&author=Linus%20Torvalds" alt="Readme Quotes" />
+  </a>
 </p>
