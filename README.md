@@ -1,5 +1,4 @@
-<h1 align="center">Hola 👋, soy Daryll Lorenzo Alfonso</h1>
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&duration=2500&pause=1000&color=3AF76B&center=true&vCenter=true&width=500&lines=Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica+en+la+Cujae+%F0%9F%92%9A" alt="Typing SVG" /></a></div>
+<h1 align="center">Hola, soy Daryll Lorenzo Alfonso</h1>
 
 ## 😎 Sobre Mí:
 - 🫡 Estudio en 3er año de ingeniería informática en la Universidad Tecnológica de La Habana "José Antonio Hecheverría" Cujae 💚
