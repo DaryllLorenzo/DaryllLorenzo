@@ -1,4 +1,8 @@
-<h1 align="center">Hola, soy Daryll Lorenzo Alfonso</h1>
+<h1 align="center">Hola 🫣, soy Daryll Lorenzo Alfonso</h1>
+
+<div align="center">
+  <img alt="MILL(Man I love Linux)" src="linux.gif"><br>
+</div>
 
 ## 😎 Sobre Mí:
 - 🫡 Estudio en 3er año de ingeniería informática en la Universidad Tecnológica de La Habana "José Antonio Hecheverría" Cujae 💚
