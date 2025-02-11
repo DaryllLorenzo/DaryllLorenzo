@@ -5,10 +5,14 @@
 </div>
 
 ## 😎 Sobre Mí:
-- 🫡 Estudio en 3er año de ingeniería informática en la Universidad Tecnológica de La Habana "José Antonio Hecheverría" Cujae 💚
-- 🐧 Apasionado a los sistemas UNIX en especial Linux, donde tengo experiencia en el manejo de muchas distros
-- 👍 Me encantan los desafíos y resolver problemas en general, pensando en variantes creativas
-- 🌱 Actualmente estoy refinando mis habilidades con **C** en cuanto a manejo de memoria y punteros, en un futuro no muy lejano tengo en mis planes ir con todo a por RUST
+
+• 🫡 Actualmente curso el tercer año de Ingeniería Informática en la Universidad Tecnológica de La Habana "José Antonio Hecheverría" (Cujae), donde la pasión por la tecnología se convierte en mi motor diario. 💚
+
+• 🐧 Soy un ferviente entusiasta de los sistemas UNIX, con un amor especial por Linux, y Debian ocupa un lugar privilegiado en mi corazón como mi distribución favorita.
+
+• 👍 Me encanta enfrentar desafíos y resolver problemas complejos. Abordo cada situación con una mentalidad analítica y creativa, buscando siempre soluciones innovadoras que no solo resuelvan el problema, sino que también aporten valor.
+
+• 🌱 En este momento, estoy profundizando mis conocimientos en análisis de datos, redes neuronales y machine learning. Aunque disfruto trabajar con C, mi enfoque actual está en aprovechar el poder de los datos para crear soluciones inteligentes y transformadoras.
 
 ## 💻 Tecnologías:
 | Tipos | Tecnologías |
