@@ -6,9 +6,9 @@
 
 ## 😎 Sobre Mí:
 
-• 🫡 Actualmente curso el tercer año de Ingeniería Informática en la Universidad Tecnológica de La Habana "José Antonio Hecheverría" (Cujae), donde la pasión por la tecnología se convierte en mi motor diario. 💚
+• 🫡 Actualmente curso el cuarto año de Ingeniería Informática en la Universidad Tecnológica de La Habana "José Antonio Hecheverría" (Cujae), donde la pasión por la tecnología se convierte en mi motor diario. 💚
 
-• 🐧 Soy un ferviente entusiasta de los sistemas UNIX, con un amor especial por Linux, y Debian ocupa un lugar privilegiado en mi corazón como mi distribución favorita.
+• 🐧 Soy un gran entusiasta de los sistemas UNIX, con un amor especial por Linux, y Debian ocupa un lugar privilegiado en mi corazón como mi distribución favorita.
 
 • 👍 Me encanta enfrentar desafíos y resolver problemas complejos. Abordo cada situación con una mentalidad analítica y creativa, buscando siempre soluciones innovadoras que no solo resuelvan el problema, sino que también aporten valor.
 
