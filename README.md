@@ -36,17 +36,11 @@
 
 
 ## 📊 Estadísticas de GitHub
-
-### 📅 Actividad Reciente
-![Grind Calendar](https://github-readme-activity-graph.vercel.app/graph?username=DaryllLorenzo&theme=react-dark&hide_border=true&area=true&bg_color=1a1b27)
-
-### 📈 Estadísticas Principales
 <p align="center">
   <img width="51%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DaryllLorenzo&theme=react&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=1a1b27" />
 <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DaryllLorenzo&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
 
-### 📋 Resumen de Perfil
 <p align="center">
   <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaryllLorenzo&theme=react&bg_color=1a1b27" />
 </p>
