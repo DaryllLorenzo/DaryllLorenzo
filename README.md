@@ -1,54 +1,56 @@
 <h1 align="center">Hola 🫣, soy Daryll Lorenzo Alfonso</h1>
 
 <div align="center">
-  <img alt="MILL(Man I love Linux)" src="linux.gif"><br>
+  <table>
+    <tr>
+      <td style="vertical-align: top; padding-right: 20px;">
+        <img alt="MILL (Man I Love Linux)" src="linux.gif" width="280" />
+      </td>
+      <td style="vertical-align: top; max-width: 600px; text-align: left;">
+        <p style="margin: 0.4em 0;">• 🫡 Curso el cuarto año de Ingeniería Informática en la <strong>Cujae</strong> 💚</p>
+        <p style="margin: 0.4em 0;">• 🐧 Entusiasta de Linux y el Open Source. <strong>Debian</strong> es mi distro favorita.</p>
+        <p style="margin: 0.4em 0;">• 🌱 Aprendiendo <strong>Rust</strong>. Trabajo principalmente con <strong>Python</strong> en IA y backend.</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
-## 😎 Sobre Mí:
-
-• 🫡 Actualmente curso el cuarto año de Ingeniería Informática en la Universidad Tecnológica de La Habana "José Antonio Hecheverría" (Cujae), donde la pasión por la tecnología se convierte en mi motor diario. 💚
-
-• 🐧 Soy un gran entusiasta de los sistemas UNIX, con un amor especial por Linux, y Debian ocupa un lugar privilegiado en mi corazón como mi distribución favorita.
-
-• 👍 Me encanta enfrentar desafíos y resolver problemas complejos. Abordo cada situación con una mentalidad analítica y creativa, buscando siempre soluciones innovadoras que no solo resuelvan el problema, sino que también aporten valor.
-
-• 🌱 En este momento, estoy aprendiendo Rust, me parece un lenguaje muy interesante y con mucho que aportar a futuro. Trabajo principalmente con Python para soluciones relacionadas con Inteligencia Artificial y desarrollo backend-web.
-
-## 📬 Conecta conmigo
+<h3 style="color: #555; font-weight: 500; margin: 2.5em 0 1em; text-align: center;">📬 Conecta conmigo</h3>
 <p align="center">
   <a href="mailto:daryllla77@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/daryll-lorenzo-alfonso-481a40321" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
-## 💻 Tecnologías:
-| Tipos | Tecnologías |
-| ------ | ---------- |
-| Frontend | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) |
-| Backend | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=for-the-badge) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=for-the-badge) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)|
-| Package Manager | ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Composer](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=fff&style=for-the-badge) |
-| Otros | ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) |
-| IDE | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=fff&style=for-the-badge) ![Notepad++](https://img.shields.io/badge/Notepad%2B%2B-90E59A?logo=notepadplusplus&logoColor=000&style=for-the-badge)|
-| SO   | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff&style=for-the-badge) ![openSUSE](https://img.shields.io/badge/openSUSE-73BA25?logo=opensuse&logoColor=fff&style=for-the-badge) |
-
-
-## 📊 Estadísticas de GitHub
+<h3 style="color: #555; font-weight: 500; margin: 2.5em 0 1em; text-align: center;">💻 Tecnologías & Herramientas</h3>
 <p align="center">
-  <img width="51%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DaryllLorenzo&theme=react&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=1a1b27" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white" alt="GraphQL"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Rust-DEA584?logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white" alt="Apache"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" alt="Nginx"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
+</p>
+          
+
+<h3 style="color: #555; font-weight: 500; margin: 2.5em 0 1em; text-align: center;">📊 Estadísticas de GitHub</h3>
+<p align="center">
+  <img width="51%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DaryllLorenzo&theme=react&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=1a1b27"/>
 <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DaryllLorenzo&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
 
 <p align="center">
-  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaryllLorenzo&theme=react&bg_color=1a1b27" />
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaryllLorenzo&theme=react&bg_color=1a1b27"/>
 </p>
 
-<hr />
-
-<p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&quote=La%20inteligencia%20es%20la%20habilidad%20de%20evitar%20hacer%20trabajo,%20y%20conseguir%20que%20el%20trabajo%20se%20haga.&author=Linus%20Torvalds" alt="Readme Quotes" />
-  </a>
-</p>
 
