@@ -12,7 +12,17 @@
 
 • 👍 Me encanta enfrentar desafíos y resolver problemas complejos. Abordo cada situación con una mentalidad analítica y creativa, buscando siempre soluciones innovadoras que no solo resuelvan el problema, sino que también aporten valor.
 
-• 🌱 En este momento, estoy profundizando mis conocimientos en análisis de datos, redes neuronales y machine learning. Aunque disfruto trabajar con C, mi enfoque actual está en aprovechar el poder de los datos para crear soluciones inteligentes y transformadoras.
+• 🌱 En este momento, estoy aprendiendo Rust, me parece un lenguaje muy interesante y con mucho que aportar a futuro. Trabajo principalmente con Python para soluciones relacionadas con Inteligencia Artificial y desarrollo backend-web.
+
+## 📬 Conecta conmigo
+<p align="center">
+  <a href="mailto:daryllla77@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/daryll-lorenzo-alfonso-481a40321" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ## 💻 Tecnologías:
 | Tipos | Tecnologías |
@@ -25,10 +35,21 @@
 | SO   | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff&style=for-the-badge) ![openSUSE](https://img.shields.io/badge/openSUSE-73BA25?logo=opensuse&logoColor=fff&style=for-the-badge) |
 
 
-## 📊 Estadísticas de Github:
-<p align="center"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DaryllLorenzo&theme=react&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"/>
-<p align="center"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DaryllLorenzo&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></p>
-<p align="center"><img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaryllLorenzo&theme=react" /></p>
+## 📊 Estadísticas de GitHub
+
+### 📅 Actividad Reciente
+![Grind Calendar](https://github-readme-activity-graph.vercel.app/graph?username=DaryllLorenzo&theme=react-dark&hide_border=true&area=true&bg_color=1a1b27)
+
+### 📈 Estadísticas Principales
+<p align="center">
+  <img width="51%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DaryllLorenzo&theme=react&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=1a1b27" />
+<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DaryllLorenzo&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+</p>
+
+### 📋 Resumen de Perfil
+<p align="center">
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaryllLorenzo&theme=react&bg_color=1a1b27" />
+</p>
 
 <hr />
 
@@ -36,3 +57,4 @@
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&quote=La%20inteligencia%20es%20la%20habilidad%20de%20evitar%20hacer%20trabajo,%20y%20conseguir%20que%20el%20trabajo%20se%20haga.&author=Linus%20Torvalds" alt="Readme Quotes" />
   </a>
 </p>
+
