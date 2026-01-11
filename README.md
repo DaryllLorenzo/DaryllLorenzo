@@ -49,8 +49,4 @@
 <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DaryllLorenzo&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
 
-<p align="center">
-  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaryllLorenzo&theme=react&bg_color=1a1b27"/>
-</p>
-
 
